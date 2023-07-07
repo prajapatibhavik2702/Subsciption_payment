@@ -1,1 +1,1 @@
-# ![Laravel Example App](logo.png)
+# ![Laravel Example App](logo.png.png)
